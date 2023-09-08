@@ -1,0 +1,30 @@
+
+.container {
+    background: purple;
+    max-width: 25vw;
+    margin:auto;
+    text-align: center;
+    display: flex;
+   padding: 30px;
+    flex-direction: column;
+    flex-shrink: 1;
+    
+}
+button {
+    background: rgb(1, 1, 218);
+    padding: 14px;
+    font-size: 16px;
+    color: aliceblue;
+    margin: 4px;
+    text-overflow: ellipsis;
+}
+#remove {
+    background: red;
+}
+ #save-btn {
+    background: rgb(44, 37, 40);
+ }
+ p {
+    color: darkgrey;
+    font-size: 17px;
+ }
